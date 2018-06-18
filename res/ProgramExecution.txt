@@ -1,0 +1,509 @@
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+3
+Enter space separated line no. and text
+0 Hey there!
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+3
+Enter space separated line no. and text
+1 I think i know you
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+3
+Enter space separated line no. and text
+2 you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+2
+ Enter space separated n (starting line no)and m (ending line no)
+1 2
+Text Pad Contents from line 1to line2:
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+6
+Enter space separated n(starting line) and m(ending line)
+ to copy to clipboard
+0 1
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+7
+Enter line no. where you need to paste the clipboard content
+1
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+Hey there!
+I think i know you
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+7
+Enter line no. where you need to paste the clipboard content
+3
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+6
+Enter space separated n(starting line) and m(ending line)
+ to copy to clipboard
+0 5
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+7
+Enter line no. where you need to paste the clipboard content
+5
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+I think i know you
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+I think i know you
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+6 
+Enter space separated n(starting line) and m(ending line)
+ to copy to clipboard
+0 1
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+7
+Enter line no. where you need to paste the clipboard content
+2
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+Hey there!
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+I think i know you
+I think i know you
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+6
+Enter space separated n(starting line) and m(ending line)
+ to copy to clipboard
+0 14
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+7
+Enter line no. where you need to paste the clipboard content
+14
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+1
+Text Pad Contents:
+Hey there!
+Hey there!
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+I think i know you
+I think i know you
+Hey there!
+Hey there!
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+Hey there!
+Hey there!
+I think i know you
+Hey there!
+I think i know you
+I think i know you
+I think i know you
+you were dancing in the rain yesterday right?
+you were dancing in the rain yesterday right?
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+8
+This feature is under development. Lazy programmer :P 
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+9
+This feature is under development. Lazy programmer :P
+********************************************************************************
+TEXT PAD
+** NOTE: 0 based indexing is used. **
+Choose from below options:
+* 1. display() – to display the entire text pad contents 
+ * 2. display(n, m) – to display from line n to m 
+ * 3. insert(n, text) – to insert text at line n 
+ * 4.  delete(n) – delete line n
+ * 5. delete(n, m) – delete from line n to m
+ * 6. copy(n, m) – copy contents from line n to m to clipboard 
+ * 7. paste(n) – paste contents from clipboard to line n 
+ * 8. undo() – undo last command 
+ * 9. redo() – redo last command * 10. exit()
+********************************************************************************
+10
+Program Exited.
